@@ -47,7 +47,7 @@ Cílem projektu bylo zanalyzovat zastoupení queer filmů v českém televizním
 │   ├── 02_tmdb_api_filmy_metadata.py       # Získávání metadat z TMDB API
 │   ├── 03_program_cykly.py                 # Čištění názvů filmů – odstranění TV cyklů
 │   ├── 04_filmy_vsechny_metadata_tagy.py   # Zpracování queer tagů, MultiLabelBinarizer
-│   └── 05_metadata_program_merge.py        # Spojení TV programu s metadaty
+│   └── 05_program_merge_a_metadata.py      # Merge opakujících se vysílání v TV programu a přidání metadat
 ├── sql/
 │   ├── casove_sloty.sql                    # Analýza časových slotů vysílání
 │   ├── filmy_dtb.sql                       # Základní přehled filmů
