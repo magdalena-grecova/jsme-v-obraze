@@ -41,6 +41,7 @@ Cílem projektu bylo zanalyzovat zastoupení queer filmů v českém televizním
 
 ## Struktura repozitáře
 
+````
 ├── python/
 │   ├── 01_tv_scraper.py                    # Stahování TV programu z tv.seznam.cz (JSON API)
 │   ├── 02_tmdb_api_filmy_metadata.py       # Získávání metadat z TMDB API
@@ -55,6 +56,7 @@ Cílem projektu bylo zanalyzovat zastoupení queer filmů v českém televizním
 │   ├── trend_pocty_na_rok.sql              # Trend počtu queer filmů po letech
 │   └── zmena_datovych_typu.sql             # Úprava datových typů
 └── README.md
+````
 
 ## Vizualizace
 
